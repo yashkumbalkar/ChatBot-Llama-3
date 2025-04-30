@@ -1,6 +1,6 @@
 ## Deployed App on Streamlit link :- [click here](https://yashkumbalkar-chatbot-llama-3-app-ckpa96.streamlit.app/)
 
-# LLaMA 3.3 70B Chatbot with Groq API and Streamlit
+# Llama 3.3 70B Chatbot with Groq API and Streamlit
 
 ### Overview :-
 
