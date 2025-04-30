@@ -7,13 +7,13 @@
 This project showcases a chatbot built using the **Llama 3.3 70B** model and the **Groq API**, deployed on **Streamlit**. 
 The chatbot is designed to provide interactive and engaging conversations, leveraging the capabilities of advanced language models.
 
-### Feautes :-
+### Features :-
 
 - **Interactive Chat Interface:** User-friendly interface for Intelligent, contextual and seamless interaction.
 - **Powered by Llama 3.3 70B:** Utilizes the latest Llama model for high-quality responses.
 - **GROQ API Integration:** Efficient API calls for real-time Ultra-fast responses.
 
-## Example Usage :-
+### Example Usage :-
 
 - Open the deployed Streamlit app.
 - Enter your message or question in the text input field.
